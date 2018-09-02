@@ -1,0 +1,17 @@
+This is solution to Sapient Code Assessment to calculate GDP of the values given in input file in different format
+Data is given in three format as per uploaded in the project
+xml,text,csv
+you have to calculate  GDP of each each country in USD.
+if country is not present then city name sholud be presnted instead of country.
+the output is sorted 1st on country then gender and after ammount.
+The exchange rate is given in properties file
+Calculate the average of sum of amount divided by count for male and female gender separately.
+
+Input data attached.
+
+Output:-
+
+Output must be in csv file.
+sample output is also attached.
+to read the xml i have used JAXB Parser
+to read csv data i have used poi jars
